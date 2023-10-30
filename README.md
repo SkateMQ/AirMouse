@@ -243,7 +243,7 @@ void loop() {
 
 ![1698683715148](image/README/1698683715148.png)
 
-#### [BLE 鼠标库](https://github.com/T-vK/ESP32-BLE-Mouse)安装
+#### BLE 鼠标库安装
 
 * **下载库**：
 
@@ -262,6 +262,6 @@ void loop() {
 
 ![1698684064793](image/README/1698684064793.png)
 
-这时应该可以在电脑的蓝牙下面发现这个**ESP32 Bluetooth Mouse，**连接成功后就可以变成鼠标控制电脑了
+这时应该可以在电脑的蓝牙下面发现这个**ESP32 Bluetooth Mouse**，连接成功后就可以变成鼠标控制电脑了
 
 ![1698684197447](image/README/1698684197447.png)
